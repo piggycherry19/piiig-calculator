@@ -1,0 +1,25 @@
+{
+  "name": "piiig-calculator",
+  "version": "1.0.3",
+  "description": "A library that helps you calculate the sum of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piggycherry19/piiig-calculator"
+  },
+  "homepage": "https://x.com/PiggyCherry19",
+  "keywords": [
+    "sum",
+    "add",
+    "total"
+  ],
+  "author": "piggycherry19",
+  "license": "MIT"
+}
